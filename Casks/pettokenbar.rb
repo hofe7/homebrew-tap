@@ -1,6 +1,6 @@
 cask "pettokenbar" do
-  version "1.25.3"
-  sha256 "e59d2358c604cda2368791e221bc1a0c75c6abe33770dda895bebf0f57d1fb3d"
+  version "1.25.4"
+  sha256 "6d0b56eb3013bc752365d5363eee36b2f812965392b1824fae04c54a464a631c"
 
   url "https://github.com/hofe7/PetTokenBar/releases/download/v#{version}/PetTokenBar-#{version}.zip"
   name "PetTokenBar"
